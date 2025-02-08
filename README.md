@@ -3,7 +3,7 @@
 I'm Tairu Wang, a software Engineer.
 
 - 🔭 I’m currently looking for openings of Software Engineer
-- 💻 Most used line of code git commit -m "Initial Commit"
+- 💻 Most used line of code git commit -m
 - 📫 How to reach me: tairuw@gmail.com
 
 #### Top Technologies
